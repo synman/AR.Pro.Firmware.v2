@@ -3,9 +3,9 @@
       package="com.shellware.ARPro.Firmware.v2"
       android:installLocation="preferExternal" android:versionCode="6" android:versionName="1.5">
  
-    <application android:label="@string/app_name" android:icon="@drawable/firmicon">
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher">
         <activity android:name="com.shellware.ARPro.Firmware.firmware"
-                  android:label="@string/app_name" android:icon="@drawable/firmicon">
+                  android:label="@string/app_name" android:icon="@drawable/ic_launcher">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER"/>

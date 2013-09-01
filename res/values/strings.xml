@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    <string name="hello">The AR.Pro Firmware Pack is a storage only Android application and provides the files necessary to upgrade the firmware of your AR.Drone within AR.Pro.</string>
-    <string name="app_name">AR.Pro Firmware Pack</string>
+    <string name="hello">The AR.Pro Firmware Pack V2 is a storage only Android application and provides the files necessary to upgrade the firmware of your V2 AR.Drone within AR.Pro.</string>
+    <string name="app_name">AR.Pro Firmware Pack V2</string>
     
     <!-- <string name="app_info">The AR.Pro Firmware Pack will do nothing without AR.Pro.  You can purchase AR.Pro from the Amazon App Store.</string>
     <string name="arpro_market">Visit the Amazon App Store</string> -->
